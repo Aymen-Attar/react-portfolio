@@ -1,3 +1,4 @@
+import project0 from "../assets/projects/project0.png";
 import project1 from "../assets/projects/project1.png";
 import project2 from "../assets/projects/project2.png";
 import project3 from "../assets/projects/project3.png";
@@ -26,6 +27,16 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+
+
+
+  {
+    title:"Municipality of Msaken",
+    image: project0,
+    description:
+    "A user-friendly municipality website developed using modern web technologies. The platform allows citizens to explore local news, access essential services, and stay informed about community events. Users can submit forms, check the status of building permits, view competition announcements, and file complaints directly through the site.",
+    technologies: ["React", "HTML", "CSS", "JavaScript", "Firebase" ]
+  },
   {
     title: "Fish Game",
     image: project1,

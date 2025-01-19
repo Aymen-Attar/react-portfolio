@@ -34,7 +34,7 @@ const Contact = () => {
               name="name"
               placeholder="Your Name"
               required
-              className="w-full p-3 border border-neutral-900 rounded-lg"
+              className="w-full p-3 border border-neutral-900 rounded-lg text-black placeholder-gray-500"
             />
           </motion.div>
           <motion.div className="mb-4" variants={fadeInVariant}>
