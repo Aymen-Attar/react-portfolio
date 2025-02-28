@@ -9,7 +9,6 @@ Check out my portfolio live at: [Aymen Attar's Portfolio](https://react-portfoli
 - React.js
 - Tailwind CSS
 - JavaScript
-- Vite
 
 ## Installation & Setup
 To run this project locally, follow these steps:
