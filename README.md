@@ -1,6 +1,6 @@
 # React Portfolio
 
-Welcome to my portfolio repository! This project showcases my skills and experience as a frontend developer using React.js, Tailwind CSS, and other modern web technologies.
+Welcome to my portfolio repository! This project showcases my skills and experience as a frontend developer using React.js and Tailwind CSS.
 
 ## Live Portfolio
 Check out my portfolio live at: [Aymen Attar's Portfolio](https://react-portfolio-five-sooty.vercel.app/)
